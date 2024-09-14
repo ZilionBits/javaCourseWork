@@ -1,1 +1,1 @@
-Hello! I'm Darius Žilionis, JAVA student.
+Hello! I’m Darius Žilionis, a Java student.
